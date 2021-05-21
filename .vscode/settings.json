@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "buttons.h": "c",
+        "uart.h": "c",
+        "eink.h": "c"
+    }
+}

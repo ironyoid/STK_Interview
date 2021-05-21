@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "STK_Interview",
+            "includePath": [
+                "${workspaceRoot}",
+                "${workspaceRoot}/main/src",
+                "${workspaceRoot}/main/inc",
+                "${workspaceRoot}/STM8L15x_StdPeriph_Driver/inc"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/main/src",
+                    "${workspaceRoot}/main/inc",
+                    "${workspaceRoot}/STM8L15x_StdPeriph_Driver/inc"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${workspaceRoot}/.vscode/browse.vc.db"
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+        }
+    ],
+    "version": 4
+}
